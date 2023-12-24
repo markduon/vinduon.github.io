@@ -23,7 +23,7 @@ Minimalistic theme is based on gh-pages minimal theme, with navigation in the si
 8. Github-Pages Support.
 9. Card Support
 10. Under active development.
-11. And many more. 😁
+11. And many more.
 
 ## Usage
 
